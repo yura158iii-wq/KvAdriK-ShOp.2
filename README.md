@@ -1,0 +1,1 @@
+# KvAdriK-ShOp.2
