@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KvAdriK ShOp</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>KvAdriK ShOp</h1>
+    <img class="main-img" src="https://i.ibb.co/m5gTJHtW/image.png" alt="Main Image">
+
+    <table class="cfmoto-table">
+        <caption>Модельний ряд квадроциклів CFMOTO</caption>
+        <thead>
+            <tr>
+                <th>Модель</th>
+                <th>Тип</th>
+                <th>Призначення</th>
+                <th>Примітка</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>CFORCE 520 L 2026</td>
+                <td>Утилітарний (2-місний)</td>
+                <td>Робота/Відпочинок</td>
+                <td>Оновлена версія популярної моделі.</td>
+            </tr>
+            <tr>
+                <td>CFMOTO CFORCE 110</td>
+                <td>Дитячий/Підлітковий</td>
+                <td>Навчання/Розваги</td>
+                <td>Модель початкового рівня для наймолодших.</td>
+            </tr>
+            <tr>
+                <td>CFORCE 1000 MV</td>
+                <td>Утилітарний/Туристичний</td>
+                <td>Важке бездоріжжя/Експедиції</td>
+                <td>Потужний, флагманський квадроцикл.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>CFORCE 1000 OVERLAND</h2>
+    <img src="https://cfmoto.com.ua/uploads/2025/01/model4-1.png" width="800">
+    <img src="https://tm-moto.ru/upload/iblock/c6a/ismo1k8nu56doxir3f8mo4nfo1gv0g20.jpg" width="800">
+    <iframe width="855" height="481" src="https://www.youtube.com/embed/uDTY1dcvE_M" frameborder="0" allowfullscreen></iframe>
+
+    <h3>комплектація</h3>
+    <p1>Електропідсилювач керма (EPS), Електрична лебідка 3500 lbs, Литі диски 14”, Шини 27” Clincher...</p1>
+
+    <h3>ОСОБЛИВОСТІ</h3>
+    <p2>V-подібний двигун. CFORCE 1000 OVERLAND оснащений 75-сильним двигуном об’ємом 963 куб. см.</p2>
+
+    <hr>
+
+    <h4>Квадроцикл CFMOTO CFORCE 110</h4>
+    <img src="https://img.autotrader.co.za/44701733/Fit508x373" width="500">
+    <img src="https://zahidpowermotors.com.ua/content/images/23/800x600l80mc0/cfmoto-cforce-110-blue-97964997329274.webp" width="800">
+    <iframe width="901" height="383" src="https://www.youtube.com/embed/JAns2ShTjY8" frameborder="0" allowfullscreen></iframe>
+
+    <h5>Комплектація</h5>
+    <p3>Приладова панель LCD, LED-оптика, Гідравличні дискові гальма, CFMOTO App.</p3>
+
+    <hr>
+
+    <h7>Квадроцикл CFORCE 1000 MV</h7> 
+    <img src="https://cfmoto.com.ua/uploads/2025/03/model2.png" width="800">
+    <iframe width="855" height="481" src="https://www.youtube.com/embed/Y0l95DDraIM" frameborder="0" allowfullscreen></iframe>
+
+    <table class="schedule-table">
+        <thead>
+            <tr>
+                <th>День тижня</th>
+                <th>Графік роботи</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>Понеділок — П’ятниця</td><td>09:00 — 19:00</td></tr>
+            <tr><td>Субота</td><td>10:00 — 16:00</td></tr>
+            <tr><td class="day-off">Неділя</td><td class="day-off">Вихідний</td></tr>
+        </tbody>
+    </table>
+
+    <h8>Юрій Стельмащук</h8>
+
+</body>
+</html>

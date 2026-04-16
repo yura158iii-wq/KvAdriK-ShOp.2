@@ -1,0 +1,57 @@
+h1 {
+    text-shadow: 10px 10px 4px rgb(0, 0, 0);
+    text-align: center;
+    color: #ff0000;
+}
+body {
+    background-image: linear-gradient(green, yellow);
+    background-attachment: fixed;
+    margin: 0;
+    padding: 20px;
+}
+h2, h3, h4, h5, h6, h7, h8 {
+    text-align: center;
+    font-weight: bold;
+}
+h2 { color: #343434; font-size: 40px; }
+h3 { color: #343434; font-size: 40px; }
+h4 { color: #951212; font-size: 40px; }
+h5 { color: #951212; font-size: 40px; }
+h6 { color: #951212; font-size: 40px; }
+h7 { color: #8A6514; font-size: 40px; display: block; }
+h8 { color: #343434; font-size: 40px; display: block; }
+
+p1, p2, p3, p4 { display: block; font-size: 35px; }
+p1, p2 { color: #343434; }
+p3 { color: #951212; }
+p4 { color: #8A6514; }
+
+img, iframe {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+/* Стилі таблиць */
+.cfmoto-table {
+    width: 80%; 
+    margin: 20px auto; 
+    border-collapse: collapse; 
+    background: white;
+}
+.cfmoto-table th, .cfmoto-table td {
+    border: 1px solid #FF5555; 
+    padding: 12px;
+    color: black;
+}
+.cfmoto-table thead th { background-color: #CC0000; color: white; }
+
+.schedule-table {
+    width: 100%;
+    max-width: 450px;
+    margin: 20px auto;
+    background-color: #ffff00;
+    border: 2px solid #333;
+}
+.day-off { color: #d32f2f !important; font-weight: bold; }
